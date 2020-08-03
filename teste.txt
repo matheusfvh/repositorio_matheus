@@ -1,3 +1,0 @@
-# Git e github
-
-Arquivo da aula de git para iniciantes
